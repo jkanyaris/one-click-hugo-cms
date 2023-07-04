@@ -1,14 +1,11 @@
 ---
-title: Our Coffee
+title: Our Prosopis
 type: products
 image: /img/products-jumbotron.jpg
 intro:
   heading: What we offer
   description: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee production,
-    roasting and brewing seriously and we’re glad to pass that knowledge to
-    anyone.
+    Ekodada is social enterprise that aims to use a holistic approach to solve local environmental and social economic problems in Kenya. Specifically , it aims to employ applied scientific solutions through business approaches to climate change , poor farming methods , biodiversity loss , alien invasive species , soil degradation, food security and unsustainable livelihoods.
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
