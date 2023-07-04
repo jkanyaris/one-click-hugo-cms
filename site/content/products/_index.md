@@ -5,42 +5,25 @@ image: /img/products-jumbotron.jpg
 intro:
   heading: What we offer
   description: >-
-    Ekodada is social enterprise that aims to use a holistic approach to solve local environmental and social economic problems in Kenya. Specifically , it aims to employ applied scientific solutions through business approaches to climate change , poor farming methods , biodiversity loss , alien invasive species , soil degradation, food security and unsustainable livelihoods.
+Ekodada is social enterprise that aims to use a holistic approach to solve local environmental and social economic problems in Kenya. Specifically , it aims to employ applied scientific solutions through business approaches to climate change , poor farming methods , biodiversity loss , alien invasive species , soil degradation, food security and unsustainable livelihoods.
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+Ekodada is social enterprise that aims to use a holistic approach to solve local environmental and social economic problems in Kenya. Specifically , it aims to employ applied scientific solutions through business approaches to climate change , poor farming methods , biodiversity loss , alien invasive species , soil degradation, food security and unsustainable livelihoods.
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Ekodada is social enterprise that aims to use a holistic approach to solve local environmental and social economic problems in Kenya. Specifically , it aims to employ applied scientific solutions through business approaches to climate change , poor farming methods , biodiversity loss , alien invasive species , soil degradation, food security and unsustainable livelihoods.
     - image: /img/illustrations-tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
+        Ekodada is social enterprise that aims to use a holistic approach to solve local environmental and social economic problems in Kenya. Specifically , it aims to employ applied scientific solutions through business approaches to climate change , poor farming methods , biodiversity loss , alien invasive species , soil degradation, food security and unsustainable livelihoods.
         Email us or call the store for details.
     - image: /img/illustrations-meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Ekodada is social enterprise that aims to use a holistic approach to solve local environmental and social economic problems in Kenya. Specifically , it aims to employ applied scientific solutions through business approaches to climate change , poor farming methods , biodiversity loss , alien invasive species , soil degradation, food security and unsustainable livelihoods.
 main:
-  heading: Great coffee with no compromises
+  heading: Great enterprise with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+Ekodada is social enterprise that aims to use a holistic approach to solve local environmental and social economic problems in Kenya. Specifically , it aims to employ applied scientific solutions through business approaches to climate change , poor farming methods , biodiversity loss , alien invasive species , soil degradation, food security and unsustainable livelihoods.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -57,7 +40,7 @@ testimonials:
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
+      Ekodada is the place to go if you want the best quality and value for money. I love their
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
