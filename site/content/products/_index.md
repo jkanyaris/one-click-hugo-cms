@@ -5,25 +5,45 @@ image: /img/products-jumbotron.jpg
 intro:
   heading: What we offer
   description: >-
-Ekodada is social enterprise that aims to use a holistic approach to solve local environmental and social economic problems in Kenya. Specifically , it aims to employ applied scientific solutions through business approaches to climate change , poor farming methods , biodiversity loss , alien invasive species , soil degradation, food security and unsustainable livelihoods.
+    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    problems in Kenya. Specifically, it aims to employed applied scientific solutions through business approaches to climate change,
+    poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
+    livelihoods.
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-Ekodada is social enterprise that aims to use a holistic approach to solve local environmental and social economic problems in Kenya. Specifically , it aims to employ applied scientific solutions through business approaches to climate change , poor farming methods , biodiversity loss , alien invasive species , soil degradation, food security and unsustainable livelihoods.
+    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    problems in Kenya. Specifically, 
+    It aims to employed applied scientific solutions through business approaches to climate change,
+    poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
+    livelihoods.
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        Ekodada is social enterprise that aims to use a holistic approach to solve local environmental and social economic problems in Kenya. Specifically , it aims to employ applied scientific solutions through business approaches to climate change , poor farming methods , biodiversity loss , alien invasive species , soil degradation, food security and unsustainable livelihoods.
+    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    problems in Kenya. Specifically, it aims to employed applied scientific solutions through business approaches to climate change,
+    poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
+    livelihoods.
     - image: /img/illustrations-tutorials.svg
       text: >
-        Ekodada is social enterprise that aims to use a holistic approach to solve local environmental and social economic problems in Kenya. Specifically , it aims to employ applied scientific solutions through business approaches to climate change , poor farming methods , biodiversity loss , alien invasive species , soil degradation, food security and unsustainable livelihoods.
+    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    problems in Kenya. Specifically, it aims to employed applied scientific solutions through business approaches to climate change,
+    poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
+    livelihoods.
         Email us or call the store for details.
     - image: /img/illustrations-meeting-space.svg
       text: >
-        Ekodada is social enterprise that aims to use a holistic approach to solve local environmental and social economic problems in Kenya. Specifically , it aims to employ applied scientific solutions through business approaches to climate change , poor farming methods , biodiversity loss , alien invasive species , soil degradation, food security and unsustainable livelihoods.
+    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    problems in Kenya. Specifically,
+    It aims to employed applied scientific solutions through business approaches to climate change,
+    poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
+    livelihoods.
 main:
-  heading: Great enterprise with no compromises
+  heading: Great solutions with no compromises
   description: >
-Ekodada is social enterprise that aims to use a holistic approach to solve local environmental and social economic problems in Kenya. Specifically , it aims to employ applied scientific solutions through business approaches to climate change , poor farming methods , biodiversity loss , alien invasive species , soil degradation, food security and unsustainable livelihoods.
+    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    problems in Kenya. Specifically, it aims to employed applied scientific solutions through business approaches to climate change,
+    poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
+    livelihoods.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -40,7 +60,7 @@ testimonials:
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
     quote: >-
-      Ekodada is the place to go if you want the best quality and value for money. I love their
+      Ekodada is the place to go if you want the best quality and value for money solutions. I love their
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
