@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/logo.jpeg"
 contact_entries:
   - heading: Location
     text: "Marigat, Baringo , Kenya +254"
