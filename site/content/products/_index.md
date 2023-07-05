@@ -1,17 +1,17 @@
 ---
-title: Our Prosopis
-type: products
-image: /img/products-jumbotron.jpg
-intro:
+   title: Our Products
+   type: products
+   image: /img/products-jumbotron.jpg
+   intro:
   heading: What we offer
   description: >-
     Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically, it aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
-  blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
+    blurbs:
+  - image: /img/illustrations-coffee.svg
+    text: >
     Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically, 
     It aims to employed applied scientific solutions through business approaches to climate change,
