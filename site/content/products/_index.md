@@ -5,34 +5,34 @@
    intro:
   heading: What we offer
   description: >-
-    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically, it aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
     blurbs:
   - image: /img/logo.jpeg
     text: >
-    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically, 
     It aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
   - image: /img/logo.jpeg
       text: >
-    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically, it aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
   - image: /img/logo.jpeg
       text: >
-    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically, it aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
         Email us or call the store for details.
    - image: /img/logo.jpeg
       text: >
-    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically,
     It aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
@@ -40,7 +40,7 @@
 main:
   heading: Great solutions with no compromises
   description: >
-    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically, it aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
