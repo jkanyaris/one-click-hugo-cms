@@ -1,6 +1,6 @@
 ---
-   title: Our Products
-   type: products
+   title: About Us
+   type: About
    image: /img/logo.jpeg
    intro:
   heading: What we offer

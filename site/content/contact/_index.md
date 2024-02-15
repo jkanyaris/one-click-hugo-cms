@@ -5,7 +5,7 @@ contact_entries:
   - heading: Location
     text: "Marigat, Baringo , Kenya +254728933096"
   - heading: Working hours
-    text: "Monday – Friday: 8AM – 7PM We’re closed on Saturdays & Sundays"
+    text: "Monday – Friday: 8AM – 5PM We’re closed on Saturdays & Sundays"
 ---
 
 We’d love to get in touch with you and hear your ideas and
