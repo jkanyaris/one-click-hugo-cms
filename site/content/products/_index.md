@@ -5,46 +5,34 @@
    intro:
   heading: What we offer
   description: >-
-    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically, it aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
     blurbs:
   - image: /img/logo.jpeg
     text: >
-    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically, 
     It aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
-<<<<<<< HEAD
   - image: /img/logo.jpeg
-=======
-    - image: /img/logo.jpeg
->>>>>>> 4d3d47fae69fda7c17c0efc14c1a32b9e5ef88a2
       text: >
-    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically, it aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
-<<<<<<< HEAD
   - image: /img/logo.jpeg
-=======
-    - image: /img/logo.jpeg
->>>>>>> 4d3d47fae69fda7c17c0efc14c1a32b9e5ef88a2
       text: >
-    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically, it aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
         Email us or call the store for details.
-<<<<<<< HEAD
    - image: /img/logo.jpeg
-=======
-    - image: /img/logo.jpeg
->>>>>>> 4d3d47fae69fda7c17c0efc14c1a32b9e5ef88a2
       text: >
-    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically,
     It aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
@@ -52,35 +40,21 @@
 main:
   heading: Great solutions with no compromises
   description: >
-    Ekodada is a social enterprise that aims to use holistic approach to solve local environmental and socio-economic
+    Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically, it aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
   image1:
-<<<<<<< HEAD
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/logo.jpeg
-=======
     alt: A close-up of a paper filter filled with ground ekodada
     image: /img/logo.jpeg
->>>>>>> 4d3d47fae69fda7c17c0efc14c1a32b9e5ef88a2
   image2:
-<<<<<<< HEAD
-    alt: A green cup of a coffee on a wooden table
-    image: /img/logo.jpeg
-=======
     alt: A green cup of a ekodada on a wooden table
     image: /img/logo.jpeg
->>>>>>> 4d3d47fae69fda7c17c0efc14c1a32b9e5ef88a2
   image3:
     alt: Coffee beans
     image: /img/logo.jpeg
 testimonials:
-<<<<<<< HEAD
-  - author: Jeremey Kobetbet
-=======
   - author: Jeremy Kobetbet
->>>>>>> 4d3d47fae69fda7c17c0efc14c1a32b9e5ef88a2
     quote: >-
       The first time I tried working with ekodada, I couldn’t even believe that was
       the same thing I’ve been ignoring all the time.
