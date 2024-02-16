@@ -2,20 +2,20 @@
 title: "Values"
 image: /img/logo.jpeg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Shade-grown prosopis"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
+      Prosopis is an invasive species or shrub that grows in the forest
       understory in its wild form, and traditionally was grown
       commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
+      forest-like structure of shade prosopis farms provides habitat for
       a great number of migratory and resident species.
     imageUrl: "/img/logo.jpeg"
   - heading: "Single origin"
     text: >
-      Single-origin coffee is coffee grown within a single known
+      Single-origin prosopis is prosopis grown within a single known
       geographic origin. Sometimes, this is a single farm or a
       specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
+      the prosopis is then usually the place it was grown to whatever
       degree available.
     imageUrl: "/img/logo.jpeg"
   - heading: "Sustainable farming"
@@ -29,17 +29,17 @@ values:
   - heading: "Direct sourcing"
     text: >
       We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
+      prosopis to you. That’s why we reinvest 20% of our profits into
+      farms, local businesses and schools everywhere our product is
       grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      prosopis farming on our blog.
     imageUrl: "/img/logo.jpeg"
   - heading: "Reinvest profits"
     text: >
       We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
+      Prosopis to you. That’s why we reinvest 20% of our profits into
+      farms, local businesses and schools everywhere our Prosopis is
       grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Prosopis farming on our blog.
     imageUrl: "/img/logo.jpeg"
 ---
