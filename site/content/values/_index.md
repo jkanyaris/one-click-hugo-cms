@@ -1,6 +1,6 @@
 ---
 title: "Values"
-image: /img/logo.jpeg
+image: "/img/logo.jpeg"
 values:
   - heading: "Shade-grown prosopis"
     text: >
