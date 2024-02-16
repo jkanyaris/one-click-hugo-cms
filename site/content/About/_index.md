@@ -1,6 +1,6 @@
 ---
    title: "About Us"
-   type: "About"
+   type: About
    image: "/img/logo.jpeg"
    intro:
   heading: "What we offer"
