@@ -1,36 +1,36 @@
 ---
-   title: Our Products
-   type: products
-   image: /img/logo.jpeg
+   title: "Our Products"
+   type: "products"
+   image: "/img/logo.jpeg"
    intro:
-  heading: What we offer
+  heading: "What we offer"
   description: >-
     Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically, it aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
     blurbs:
-  - image: /img/logo.jpeg
+  - image: "/img/logo.jpeg"
     text: >
     Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically, 
     It aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
-  - image: /img/logo.jpeg
+  - image: "/img/logo.jpeg"
       text: >
     Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically, it aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
-  - image: /img/logo.jpeg
+  - image: "/img/logo.jpeg"
       text: >
     Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically, it aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
         Email us or call the store for details.
-   - image: /img/logo.jpeg
+   - image: "/img/logo.jpeg"
       text: >
     Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically,
@@ -38,39 +38,39 @@
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
 main:
-  heading: Great solutions with no compromises
+  heading: "Great solutions with no compromises"
   description: >
     Ekodada is a social enterprise & an impact venture of CHELABA WOMEN COMMUNITY Based Organization that aims to use holistic approach to solve local environmental and socio-economic
     problems in Kenya. Specifically, it aims to employed applied scientific solutions through business approaches to climate change,
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
   image1:
-    alt: A close-up of a paper filter filled with ground ekodada
-    image: /img/logo.jpeg
+    alt: "A close-up of a paper filter filled with ground ekodada"
+    image: "/img/logo.jpeg"
   image2:
-    alt: A green cup of a ekodada on a wooden table
-    image: /img/logo.jpeg
+    alt: "A green cup of a ekodada on a wooden table"
+    image: "/img/logo.jpeg"
   image3:
-    alt: Coffee beans
-    image: /img/logo.jpeg
+    alt: "Coffee beans"
+    image: "/img/logo.jpeg"
 testimonials:
-  - author: Jeremy Kobetbet
+  - author: "Jeremy Kobetbet"
     quote: >-
       The first time I tried working with ekodada, I couldn’t even believe that was
       the same thing I’ve been ignoring all the time.
-  - author: Philipp Trommler
+  - author: "Philipp Trommler"
     quote: >-
       Ekodada is the place to go if you want the best quality services and value for money solutions. I love their
       stance on empowering farmers and transparency.
-full_image: /img/logo.jpeg
+full_image: "/img/logo.jpeg"
 pricing:
-  heading: Monthly subscriptions
+  heading: "Monthly subscriptions"
   description: >-
     We make it easy to make great products a part of your life. Choose one of our
     monthly subscription plans to receive great products at your doorstep each
     month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: "Perfect for the drinker who likes to enjoy 1-2 cups per day."
       items:
         - 1 tonne of prosopis wood per month
         - Green or dry woods"
