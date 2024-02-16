@@ -45,32 +45,32 @@ main:
     poor farming methods,biodiversity loss,alien invasive species, soil degradation,food security and unsustainable
     livelihoods.
   image1:
-    alt: "A close-up of a paper filter filled with ground ekodada"
+    alt: A close-up of a paper filter filled with ground ekodada
     image: "/img/logo.jpeg"
   image2:
-    alt: "A green cup of a ekodada on a wooden table"
+    alt: A green cup of a ekodada on a wooden table
     image: "/img/logo.jpeg"
   image3:
-    alt: "Coffee beans"
+    alt: Coffee beans
     image: "/img/logo.jpeg"
 testimonials:
-  - author: "Jeremy Kobetbet"
+  - author: Jeremy Kobetbet
     quote: >-
       The first time I tried working with ekodada, I couldn’t even believe that was
       the same thing I’ve been ignoring all the time.
-  - author: "Philipp Trommler"
+  - author: Philipp Trommler
     quote: >-
       Ekodada is the place to go if you want the best quality services and value for money solutions. I love their
       stance on empowering farmers and transparency.
 full_image: "/img/logo.jpeg"
 pricing:
-  heading: "Monthly subscriptions"
+  heading: Monthly subscriptions
   description: >-
     We make it easy to make great products a part of your life. Choose one of our
     monthly subscription plans to receive great products at your doorstep each
     month. Contact us about more details and payment info.
   plans:
-    - description: "Perfect for the drinker who likes to enjoy 1-2 cups per day."
+    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
         - 1 tonne of prosopis wood per month
         - Green or dry woods"
